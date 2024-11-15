@@ -27,6 +27,12 @@ export default function MaintenanceScreen() {
       >
         <Text style={styles.buttonText}>Repair Estimate Request</Text>
       </TouchableOpacity>
+      <TouchableOpacity
+        style={[styles.button, styles.yellowButton]}
+        onPress={() => router.push("/hidden/_MaintenanceScheduler")}
+      >
+        <Text style={styles.buttonText}>Maintenance Schedule</Text>
+      </TouchableOpacity>
     </View>
   );
 }
