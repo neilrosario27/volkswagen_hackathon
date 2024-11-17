@@ -26,3 +26,9 @@ In the output, you'll find options to open the app in a
 - [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
 - [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
 
+## Run on your local device:
+1. Install the Expo Go app on your Android or iOS device
+
+2. Scan the QR displayed on bash terminal
+   
+3. Run AutoMend
